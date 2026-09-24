@@ -22,7 +22,7 @@ Requests (Fetching webpage data)
 bash
 Copy
 Edit
-git clone https://github.com/shridharsinig/news-summarizer.git  
+git clone https://github.com/shridharsinig/news_summarizer.git  
 cd news-summarizer  
 2️⃣ Install dependencies:
 
